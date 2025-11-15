@@ -1,4 +1,4 @@
-from addвress import Address
+from address import Address
 from mailing import Mailing
 from_addr = Address("125009", "Москва", "Тверская", "7", "15")
 to_addr = Address("191025", "Санкт‑Петербург", "Невский проспект", "30", "5")
